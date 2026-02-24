@@ -20,9 +20,10 @@ jobs:
           # plugin_languages_recent_days: 14    # 過去14日間の活動を分析
           # plugin_languages_recent_load: 300   # 分析するイベント数
           plugin_languages_limit: 8           # 表示する言語数
-
+          repositories_affiliations: owner, collaborator, organization_member
+          
           # --- インデプス分析（より詳細な分析） ---
-          plugin_languages_indepth: yes
+          plugin_languages_indepth: no
           # plugin_languages_indepth_recent_days: 30 # 過去30日間の活動を分析
           # plugin_languages_indepth_load: 500      # 分析するイベント数
           # plugin_languages_indepth_limit: 5       # 表示する言語数
