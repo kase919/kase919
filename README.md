@@ -9,10 +9,10 @@
 ## 🌱 Skills
 ### 💼 Work Experience
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,github,vscode)](https://skillicons.dev)
 
 ### 🎨 Personal Projects & Hobbies
 
-[![My Skills](https://skillicons.dev/icons?i=blender,qt,flask,arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=blender,qt,flask,arduino,docker,notion,raspberrypi)](https://skillicons.dev)
 
 
